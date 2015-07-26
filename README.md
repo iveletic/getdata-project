@@ -1,7 +1,4 @@
----
-title: "ReadMe"
-output: html_document
----
+# ReadMe
 
 This is the ReadMe file for **Coursera Getting and Cleaning Data course Project**. It is supplemented with the following files:
 

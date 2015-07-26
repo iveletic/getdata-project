@@ -1,7 +1,4 @@
----
-title: "Code Book"
-output: html_document
----
+# Code Book
 
 The tidy data set was created based on *Human Activity Recognition Using Smartphones Data Set* from the UCI Machine Learning Repository. It was an experiment carried out with a group of 30 volunteers within an age bracket of 19-48 years, where each person performed 6 activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, the experiment captured several measurements (3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50 Hz), and the obtained data set has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.
 
